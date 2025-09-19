@@ -1,4 +1,4 @@
-# Milodoctor
+# Med-Connect
 
 A full-stack web application streamlining doctor appointment scheduling in cities for better healthcare access.
 
