@@ -21,7 +21,7 @@ npm install
 npm run dev
 
 ## Tech Stack
-**Frontend
+**Frontend**
 
 Next.js
  – React framework for fast, scalable UI
@@ -32,7 +32,7 @@ shadcn UI
 TailwindCSS
  – Utility-first CSS framework
 
-Backend
+**Backend**
 
 Next.js
  – Handles API routes and SSR
@@ -40,8 +40,10 @@ Next.js
 Appwrite
  – Open-source backend for authentication and data management
 
-Contributors
+## Contributors
+
+MD Zeeshan Hassan
 
 Kushal Agrawal
 
-MD Zeeshan Hassan
+
