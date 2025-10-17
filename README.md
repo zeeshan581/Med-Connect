@@ -11,9 +11,8 @@
 
 ## Installation
 
-To set up and run the project locally:
+To set up and run the project:
 
-## Bash
 https://github.com/zeeshan581/Med-Connect/edit/main/README.md
 
 npm install
