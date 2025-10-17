@@ -13,7 +13,7 @@
 
 To set up and run the project locally:
 
-```bash
+## Bash
 https://github.com/zeeshan581/Med-Connect/edit/main/README.md
 
 npm install
@@ -21,7 +21,7 @@ npm install
 npm run dev
 
 ## Tech Stack
-Frontend
+**Frontend
 
 Next.js
  – React framework for fast, scalable UI
