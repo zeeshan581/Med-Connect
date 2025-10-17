@@ -9,7 +9,7 @@
 -  **User Profiles** – Manage personal info and view appointment history  
 -  **Responsive Design** – Optimized for both desktop and mobile devices  
 
-## 🧩 Installation
+## Installation
 
 To set up and run the project locally:
 
