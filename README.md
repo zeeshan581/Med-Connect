@@ -14,4 +14,34 @@
 To set up and run the project locally:
 
 ```bash
-git clone https://github.com/kushalag02/milodoctor
+https://github.com/zeeshan581/Med-Connect/edit/main/README.md
+
+npm install
+
+npm run dev
+
+Tech Stack
+Frontend
+
+Next.js
+ – React framework for fast, scalable UI
+
+shadcn UI
+ – Reusable, elegant UI components
+
+TailwindCSS
+ – Utility-first CSS framework
+
+Backend
+
+Next.js
+ – Handles API routes and SSR
+
+Appwrite
+ – Open-source backend for authentication and data management
+
+Contributors
+
+Kushal Agrawal
+
+MD Zeeshan Hassan
