@@ -13,7 +13,7 @@
 
 To set up and run the project locally:
 
-git clone https://github.com/kzeeshan581/Med-Connect
+git clone https://github.com/zeeshan581/Med-Connect
 
 npm install
 
