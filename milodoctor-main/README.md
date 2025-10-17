@@ -1,27 +1,46 @@
-# Med-Connect
+# Milodoctor
 
-A full-stack web application streamlining doctor appointment scheduling in cities for better healthcare access.
+**Milodoctor** is a full-stack web application built to simplify the process of booking doctor appointments in cities — helping users connect with healthcare professionals easily and efficiently. This project contributes toward the **United Nations Sustainable Development Goal 3 (Good Health and Well-being).**
 
-This Web Application is designed to achieve one of the 17 Sustainable Development Goals
+## Features
 
-## Installation
+-  **Easy Appointment Booking** – Schedule doctor visits effortlessly  
+-  **Doctor Search** – Search doctors by specialization and location  
+-  **User Profiles** – Manage personal info and view appointment history  
+-  **Responsive Design** – Optimized for both desktop and mobile devices  
 
-To run this project -
+## 🧩 Installation
 
-```bash
-git clone https://github.com/kushalag02/milodoctor
-```
+To set up and run the project locally:
 
-```bash
-npm  install
-```
+git clone https://github.com/kzeeshan581/Med-Connect
 
-```bash
-npm  run dev
-```
+npm install
+
+npm run dev
 
 ## Tech Stack
+**Frontend**
 
-**Client:** Next, shadcn ui, TailwindCSS
+Next.js
+ – React framework for fast, scalable UI
 
-**Server:** Next, Appwrite,
+shadcn UI
+ – Reusable, elegant UI components
+
+TailwindCSS
+ – Utility-first CSS framework
+
+**Backend**
+
+Next.js
+ – Handles API routes and SSR
+
+Appwrite
+ – Open-source backend for authentication and data management
+
+Contributors
+
+MD Zeeshan Hassan
+
+Kushal Agrawal
