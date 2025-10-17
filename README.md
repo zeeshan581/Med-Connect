@@ -20,7 +20,7 @@ npm install
 
 npm run dev
 
-Tech Stack
+## Tech Stack
 Frontend
 
 Next.js
