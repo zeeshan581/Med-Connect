@@ -13,7 +13,7 @@
 
 To set up and run the project:
 
-https://github.com/zeeshan581/Med-Connect/edit/main/README.md
+https://github.com/zeeshan581/Med-Connect
 
 npm install
 
