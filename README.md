@@ -1,16 +1,17 @@
+# Milodoctor
 
-# Med-Connect
-A full-stack web application streamlining doctor appointment scheduling in cities for better healthcare access.
+**Milodoctor** is a full-stack web application built to simplify the process of booking doctor appointments in cities — helping users connect with healthcare professionals easily and efficiently. This project contributes toward the **United Nations Sustainable Development Goal 3 (Good Health and Well-being).**
 
-This Web Application is designed to achieve one of the 17 Sustainable Development Goals
+## Features
 
-# Installation
-To run this project -
+-  **Easy Appointment Booking** – Schedule doctor visits effortlessly  
+-  **Doctor Search** – Search doctors by specialization and location  
+-  **User Profiles** – Manage personal info and view appointment history  
+-  **Responsive Design** – Optimized for both desktop and mobile devices  
 
+## Installation
+
+To set up and run the project locally:
+
+```bash
 git clone https://github.com/kushalag02/milodoctor
-npm  install
-npm  run dev
-# Tech Stack
-Client: Next, shadcn ui, TailwindCSS
-
-Server: Next, Appwrite,
